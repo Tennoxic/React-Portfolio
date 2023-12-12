@@ -1,0 +1,52 @@
+body{
+    background-color: whitesmoke;
+}
+
+hr{
+border: 1px solid black;
+}
+
+.opacity100{
+    color: black;
+    font-size: 25px;
+    opacity: 100%;
+}
+.opacity60{
+    color: black;
+    font-size: 25px;
+    opacity: 60%;
+}
+.opacity35{
+    color: black;
+    font-size: 25px;
+    opacity: 35%;
+}
+
+.jumbotron{
+    padding: 0px;
+    display: flex;
+    background-color: snow;  
+}
+
+.container{
+    background-color: snow;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.center{
+    margin: auto;
+}
+
+.noListStyle{
+    list-style: none;
+}
+
+.col-md-3{
+    margin: auto;
+}
+
+.list-group-item{
+    background-color: whitesmoke;
+}
